@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+li{
+    display: inline;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: red;
+
+}
+h1{
+    color:blue ;
+}
+header{
+    background-color:black;
+    padding: 20px;
+}
+img{
+    border-radius: 50%;
+    height: 180px;
+    width: 200px;
+}
+ 
+#Bio p{
+    background-color: pink;
+    
+}
+#PortFolio p{
+    background-color:cornflowerblue;
+    
+}
+#Skills{
+    background-color:hotpink;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+#Contact{
+    background-color: lightsalmon;
+}
+Skills
+footer{
+    background-color: rgb(80, 202, 202);
+}
